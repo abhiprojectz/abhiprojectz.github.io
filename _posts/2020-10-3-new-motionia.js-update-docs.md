@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New update on Motionia.js animation library!
-image: /assets/img/p13.jpg
+image: /assets/img/p13.JPG
 author: anicode
 categories: [ Tutorials, web developement ]
 ---
