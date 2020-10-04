@@ -5,7 +5,7 @@ description: "Top Programming and coding related stuffs on the web, that makes d
 logo: 'assets/img/logo.png'
 favicon: 'assets/img/logo.png'
 
-baseurl: http://anicode.in
+baseurl: https://anicode.in
 google_analytics: 'UA-179390051-1'
 disqus: 'anicode'
 mailchimp-list: 'https://anicode.us2.list-manage.com/subscribe/post?u=24d932cf7b5f5f8e2ebc2c8df&amp;id=92e5280a70'
@@ -22,7 +22,7 @@ authors:
     display_name: Abhi
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: abhiprojectz01@gmail.com
-    web: http://anicode.in
+    web: https://anicode.in
     twitter: https://twitter.com/abhiprojectz
     description: "Author of Anicode.in. Passionate developer , designer and android core developer creating problem focused libraries and projects."
   
@@ -63,6 +63,6 @@ adsense-data-ad-client: "ca-pub-3532869867982273"
 # adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [LICENSE.txt, README.md, Gemfile, Gemfile.lock]
