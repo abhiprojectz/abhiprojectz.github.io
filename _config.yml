@@ -4,8 +4,7 @@ title: "Anicode - grab the latest and amazing programming related stuffs on the 
 description: "Top Programming and coding related stuffs on the web, that makes developers task easy!"
 logo: 'assets/img/logo.png'
 favicon: 'assets/img/logo.png'
-url: 'http://anicode.in'
-baseurl: ''
+baseurl: 'http://anicode.in'
 google_analytics: 'UA-179390051-1'
 disqus: 'anicode'
 mailchimp-list: 'https://anicode.us2.list-manage.com/subscribe/post?u=24d932cf7b5f5f8e2ebc2c8df&amp;id=92e5280a70'
