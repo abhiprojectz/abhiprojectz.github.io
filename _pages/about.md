@@ -18,7 +18,7 @@ comments: true
         <p>My name is abhi ( @abhiprojectz ) & i'm <b>Chief-in-editor</b> on this site. I will be available on various platforms on:
         </p>
      <style type="text/css">
-	ul li {
+	#list ul li {
 
 		list-style-type: none;
 		margin: auto;
@@ -26,7 +26,7 @@ comments: true
     width:80px;
 	}
 
-	li {
+	#list li {
 
 		padding: 5px;
 		border-radius: 10px;
@@ -40,7 +40,7 @@ comments: true
 
 
 
-<ul>
+<ul id="list">
 	<li> <a href="https://github.com/abhiprojectz/">Github</a></li>
 	<li> <a href="https://codepen.io/abhiprojectz">Codepen</a></li>
 	<li> <a href="https://dev.to/abhiprojectz">Dev.to</a></li>
