@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ultimate NodeJS tutorial for beginners!
-image: assets/img/z3.jpg
+image: assets/img/z4.jpg
 author: anicode
 categories: [ Tutorials, web developement , Nodejs ]
 ---
