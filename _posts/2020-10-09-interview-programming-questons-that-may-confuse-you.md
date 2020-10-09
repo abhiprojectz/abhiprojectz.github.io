@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interview programming questions that may confuse you!
-image: assets/img/z4.jpg
+image: assets/img/z3.jpg
 author: anicode
 categories: [ Tutorials, web developement , Nodejs ]
 ---
