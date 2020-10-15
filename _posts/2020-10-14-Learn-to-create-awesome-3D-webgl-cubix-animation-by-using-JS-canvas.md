@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn to create awesome 3D Webgl cubix animation!
-image: assets/img/zzz.jpg
+image: assets/img/zzz.gif
 author: anicode
 categories: [ Tutorials, webgl ]
 ---
