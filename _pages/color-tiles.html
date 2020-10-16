@@ -6,6 +6,7 @@ comments: true
 description: The ultimate html , css hex , rgb,  color picker tools that will make any web, ui/ux developer task easy. Tap to pick hex , rgb colors randomly generated.
 ---
 
+<script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 
 	<style type="text/css">
 		@import url(https://fonts.googleapis.com/css?family=Lato:900,300);
@@ -23,6 +24,8 @@ html, body {
 }
 
 .circle {
+	transition: background .2s ease-in, color .2s ease;
+	  text-align: center;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -62,6 +65,7 @@ html, body {
   margin-bottom: 5px;
   font-size: 48px;
   text-transform: capitalize;
+	text-align: center;
 }
 
 .color-overview {
@@ -195,4 +199,4 @@ html, body {
     <li data-bg-color="#1A222F"></li><li data-bg-color="#008E74"></li><li data-bg-color="#B2E097"></li><li data-bg-color="#D24335"></li><li data-bg-color="#1C3A40"></li>
 </ul>
 
-<script type="text/javascript" src="./assets/js/colortool.js"></script>
+<script type="text/javascript" src="/assets/js/colortool.js"></script>
