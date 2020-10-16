@@ -13,7 +13,7 @@ comments: true
         </p>
         <p>We also posts frontend components collections please do follow us on <a href="https://twitter.com/abhiprojectz"></a> @abhiprojectz </p>
         <br><br>
-        <p class="mb-5"><img class="shadow-lg" src="/assets/img/about.jpg" alt="jekyll template mediumish" /></p>
+      
         <h4>Have Questions?</h4>
         <p>My name is abhi ( @abhiprojectz ) & i'm <b>Chief-in-editor</b> on this site. I will be available on various platforms on:
         </p>
