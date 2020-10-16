@@ -5,6 +5,10 @@ permalink: /css-icons
 comments: true
 ---
 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
 <style type="text/css">
 	i { padding:20px; margin:4px; background-color:#fff; box-shadow:1px 1px 3px rgba(0,0,0,.15); display:block; float:left;
   cursor: pointer; 
