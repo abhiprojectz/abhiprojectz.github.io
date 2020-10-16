@@ -1,0 +1,36 @@
+---
+layout: page
+title: Random gradient generator tool
+permalink: /random-gradient
+comments: true
+description: Anicodes Random gradient generator tool is a all in one gradient tool for html, css, web developers and designers all around the globe.
+---
+
+
+<style type="text/css">
+    *{margin:0;padding:0;box-sizing:border-box}#tool{font-family:Poppins,Helvetica,sans-serif;background:linear-gradient(to right,red,#ff0);color:#fff;width:100%;height:100vh}.wrapper{display:flex;flex-direction:column;justify-content:center}h1{text-transform:uppercase;letter-spacing:5px;margin-top:35px;margin-bottom:25px;color:#fff;font-size:4em;text-align:center}.color-boxes{display:inline-flex;justify-content:center;margin-bottom:15px}.color{border:none;background:0 0;width:4em;height:3em;margin:0 25px;cursor:pointer}.random{background:#000;display:inline-block;margin:0 auto 50px auto;padding:10px;text-transform:uppercase;font-weight:700;letter-spacing:1px;border-radius:5px;border:0;cursor:pointer;color:#fff}.random:hover{background:#fff;color:teal}.color:hover{border:2px solid #fff}h3{margin-bottom:5px;text-transform:uppercase;letter-spacing:1px;text-align:center;color:#fff}.css{font-weight:700;text-align:center;margin-top:20px;color:#fff}
+
+</style>
+
+
+<div class='tool'>
+
+<div class="wrapper">
+
+        <h1>Gradient Generator</h1>
+
+        <div class="color-boxes">
+            <input type="color" name="color1" id="" class="color color1" value="#e66465">
+            <input type="color" name="color2" id="" class="color color2" value="#f6b73c">
+        </div>
+        
+        <button class="random">Random</button>
+    
+        <h3>Current CSS Gradient</h3>
+        <p class="css"></p>
+    
+    </div>
+  </div>
+
+  <script type="text/javascript">
+  let body=document.querySelector("body"),css=document.querySelector(".css"),color1=document.querySelector(".color1"),color2=document.querySelector(".color2"),randomBtn=document.querySelector(".random");function updateGradient(){body.style.background=`linear-gradient(to right, ${color1.value}, ${color2.value}`,css.textContent=`${body.style.background};`}function getRandomColor(){let o="0123456789ABCDEF".split(""),e="#";for(let t=0;t<6;t++)e+=o[Math.round(15*Math.random())];return e}function randomizeColorValues(){color1.value=getRandomColor(),color2.value=getRandomColor(),updateGradient()}randomizeColorValues(),updateGradient(),color1.addEventListener("input",updateGradient),color2.addEventListener("input",updateGradient),randomBtn.addEventListener("click",randomizeColorValues),document.addEventListener("keydown",function(o){32===o.which&&randomizeColorValues()});</script>
