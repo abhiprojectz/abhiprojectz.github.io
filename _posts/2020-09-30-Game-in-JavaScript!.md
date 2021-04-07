@@ -73,12 +73,6 @@ DO comment down.
 
 ## BUILD YOUR OWN IN A MINUTE
 
-here is a code shot 
-
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/b5nsvbc0sr1frbvv9a5k.JPG)
-
-
-
 There are some random question i picked a different theme you may pick any depending upon your imagination. and can easily tune it to make your own one.
 
 This shows that you need to a assign a question as
