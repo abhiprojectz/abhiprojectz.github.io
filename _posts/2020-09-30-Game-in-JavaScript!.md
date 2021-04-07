@@ -53,7 +53,6 @@ Be fast & LOYAL.
 
 # Purpose behind the game
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/h3ne47z8x954ojzc4jw5.JPG)
 
 well, i was just searching for games in JAVASCRIPT then, i thought to create this one.
 
